@@ -11,10 +11,10 @@
 - 유니티 플러스 : https://prf.hn/l/qXzX99o
 - 유니티 프로 : https://prf.hn/l/4mJ3Q3p
 
-# 번역 완료 자료
+# 번역 완료 문서
 
 
-# 번역중인 자료
+# 번역 중인 문서
 
 ## [Space Grapics Toolkit](./Space%20Graphics%20Toolkit/README.md)
 - 유니티 에셋, 우주 배경 구현
