@@ -6,7 +6,7 @@
 
 ## 참고자료 및 원본 문서
 
-http://carloswilkes.com/Documentation/SpaceGraphicsToolkit
+[Space Graphics Toolkit 공식 문서](http://carloswilkes.com/Documentation/SpaceGraphicsToolkit)
 
 ## 종류
 
