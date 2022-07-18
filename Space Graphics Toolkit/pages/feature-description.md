@@ -9,3 +9,8 @@
 ## [데브리(Debris)](./feature-description/debris.md)
 ## [플레어(Flare)](./feature-description//flare.md)
 ## [목성형 행성(Jovian)](./feature-description/jovian.md)
+## [번개(Lightning)](./feature-description/lightning.md)
+## [행성(Planet)](./feature-description/planet.md)
+## [돌출부(Prominence)](./feature-description/prominence.md)
+## [고리(Ring)](./feature-description/ring.md)
+## [특이점(Singularity)](./feature-description/singularity.md)
