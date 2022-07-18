@@ -23,3 +23,8 @@
 ### [비헤이비어 트리 컴포넌트](./pages/behavior-tree-component.md)
 ### [비헤이비어 매니저](./pages/behavior-manager.md)
 ### [태스크(Tasks)](./pages/tasks.md)
+### [디버깅](./pages/debugging.md)
+### [변수(Variables)](./pages/variables.md)
+### [조건부 중단(Conditional Abort)](./pages/conditional-abort.md)
+### [이벤트(Events)](./pages/events.md)
+### [외부 비헤이비어 트리(External Behavior Trees)](./pages/external-behavior-trees.md)
