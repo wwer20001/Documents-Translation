@@ -14,3 +14,8 @@
 ## [돌출부(Prominence)](./feature-description/prominence.md)
 ## [고리(Ring)](./feature-description/ring.md)
 ## [특이점(Singularity)](./feature-description/singularity.md)
+## [항성(Star)](./feature-description/star.md)
+## [스타필드(Starfield)](./feature-description/starfield.md)
+## [터레인(Terrain)](./feature-description/terrain.md)
+## [추진기(Thruster)](./feature-description/thruster.md)
+## [유니버스(Universe)](./feature-description/universe.md)
