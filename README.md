@@ -14,11 +14,12 @@
 
 # 번역 완료 문서
 
+## [Behavior Designer](./Behavior%20Designer/README.md)
+
+- 유니티 에셋, AI
 
 # 번역 중인 문서
 
 ## [Space Grapics Toolkit](./Space%20Graphics%20Toolkit/README.md)
-- 유니티 에셋, 우주 배경 구현
 
-## [Behavior Designer](./Behavior%20Designer/README.md)
-- 유니티 에셋, AI
+- 유니티 에셋, 우주 배경 구현
