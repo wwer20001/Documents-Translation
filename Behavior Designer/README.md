@@ -33,3 +33,7 @@
 ### [오브젝트 드로워(Object Drawers)](./pages/object-drawer.md)
 ### [변수 싱크로나이저(Variable Synchronizer)](./pages/variable-synchronizer.md)
 ### [애니메이션 동기화(Syncing Animations)](./pages/syncing-animations.md)
+### [씬 오브젝트 참조(Referencing Scene Objects)](./pages/referencing-scene-objects.md)
+### [태스크 어트리뷰트(Task Attributes)](./pages/task-attributes.md)
+### [다른 에셋과의 통합(Integrations)](./pages/integrations.md)
+### [비디오](./pages/videos.md)
